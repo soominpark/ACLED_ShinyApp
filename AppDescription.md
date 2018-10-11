@@ -13,8 +13,8 @@ The main source of the data used for this application is [Armed Conflict Locatio
 
 The ACLED dataset used (*Updated on 7/21/2018 - 374,340 events*) is for Africa (1997-current), Middle East/Asia (2016-current), and South/South East Asia (2010(varies by countries)-current)), and contains more than 370K events as well as the detailed information about each of the events. The type of the event information included in the data is as below: 
 -   Event date (when the event happened)
--   [Event type](#terminology) (type of violence (what happened): Violence against civilians, Remote violence, Riots/Protests, etc.)
--   [Actors](#terminology)  (who is involved)
+-   [Event type](#event-type) (type of violence (what happened): Violence against civilians, Remote violence, Riots/Protests, etc.)
+-   [Actors](#actor-type)  (who is involved)
 -   Location (where the event happened)
 	- Region/Country/Admin1,2,3/location/Geo-code(latitude, longitude)
 -   Base media source (where the event information is from)
