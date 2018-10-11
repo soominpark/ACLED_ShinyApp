@@ -1,5 +1,4 @@
-About the Armed Conflict Events Dashboard Application
------------------------------------------------------
+# About the Armed Conflict Events Dashboard Application
 ### created by [Soomin Park](mailto:spark13@worldbank.org) 
 ***
 
