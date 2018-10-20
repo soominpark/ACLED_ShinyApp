@@ -1,6 +1,6 @@
 # About the Armed Conflict Events Dashboard Application
 ### created by [Soomin Park](mailto:spark13@worldbank.org) 
-***
+***                
 
 ## 1. Purpose
 Armed conflict is a major cause of injury and death worldwide: it obviously causes deaths and injuries on the battlefield, but also health consequences from the displacement of populations, the breakdown of health and social services, and the heightened risk of disease transmission, as well as the food insecurity or famine from the undermined agricultural production and the disrupted livelihoods and trade. Those who live in currently conflict-affected countries, such as South Sudan, Yemen, Somalia and Nigeria, face worsening food insecurity primarily as a byproduct of internal civil wars.
