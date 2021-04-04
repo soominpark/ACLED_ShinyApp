@@ -1,7 +1,7 @@
 # The Armed Conflict Events Dashboard Shiny Application 
 
 ## Introduction
-This repository is indended to contain all the files and codes related to the [Armed Conflict Events Dashboard Shiny Application](https://juliepark.shinyapps.io/shinyappProj_ACLEDDashboard/). For more information about the project, please read [AppDescription.md](https://github.com/juliepark7/ShinyApp/blob/master/AppDescription.md) or 'About' tab in the deployed application. 
+This repository is intended to contain all the files and codes related to the [Armed Conflict Events Dashboard Shiny Application](https://juliepark.shinyapps.io/shinyappProj_ACLEDDashboard/). For more information about the project, please read [AppDescription.md](https://github.com/juliepark7/ShinyApp/blob/master/AppDescription.md) or 'About' tab in the deployed application. 
 
 ## Files 
 Below are all files to run the application. 
